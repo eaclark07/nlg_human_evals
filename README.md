@@ -4,8 +4,8 @@ It contains:
 1. [Priming texts](#priming-texts)
 2. [Training materials](#training-materials)
 
-#Priming texts
+# Priming texts
 Here is the info on priming texts
 
-#Training materials
+# Training materials
 Here is the info on training materials
